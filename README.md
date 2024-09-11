@@ -13,3 +13,24 @@ This project is a comprehensive Power BI dashboard that visualizes the career st
 Data Sources
 The data for this dashboard is sourced from publicly available cricket databases such as:
 Cricbuzz
+
+
+install Power BI Desktop: If you don’t have it installed, download and install Power BI Desktop from Microsoft.
+
+Open the .pbix file: After cloning the repository, open the virat-kohli-stats-dashboard.pbix file using Power BI Desktop.
+
+Connect to Data Sources (if dynamic): Set up the data source connection within Power BI if you intend to dynamically update data.
+
+# Usage
+Open Power BI Desktop.
+Load the .pbix file.
+Navigate through the different tabs to explore various statistical insights about Virat Kohli's career.
+Use the filters and slicers to customize the view as per your preferences.
+Dashboard Previews
+
+# Future Improvements
+Add support for live data updates from external APIs.
+Extend analysis to include captaincy records and fielding statistics.
+Integrate more advanced visualizations for better user engagement.
+Contributing
+Contributions are welcome! Feel free to submit a Pull Request or open an Issue if you have any suggestions or find any bugs.
